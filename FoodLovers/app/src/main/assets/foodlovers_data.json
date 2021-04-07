@@ -1,80 +1,80 @@
 [
   {
     "imageFile": "menu01",
-    "menuName": "Mingle",
-    "location": "Double Trouble",
+    "menuName": "เกี๊ยวปลาลวกจิ้ม",
+    "location": "28/30 ถนนพระสุเมรุ แขวงชนะสงคราม เขตพระนคร กรุงเทพมหานคร 10200",
     "description": "  เซี่ยงกี่ข้าวต้มปลา ร้านข้าวต้มปลาเตาถ่านในตำนานย่านเยาวราช อีกหนึ่งร้านเก่าแก่ส่งต่อรุ่นสู่รุ่นมากกว่า 93 ปีที่เสิร์ฟเมนูข้าวต้มแบบดั้งเดิมในสไตล์จีน ที่ถ้าหากใครไปถึงร้านก็จะได้เจอบรรยากาศความเป็นกันเองของอาม่ารุ่น 2 ",
     "rate": "star01",
-    "price": 2,
+    "price": 80,
     "icon" : "location"
 
   },
   {
     "imageFile": "menu02",
-    "menuName": "Mingle",
-    "location": "Double Trouble",
-    "description": "Mingle excels at doing twice the work in half the time, with pinpoint accuracy.  These skills serve her well in her role as Senior Data Analyst for an international cloud computing company. She's also got a penchant for ballroom dance, line dancing, and pretty much any kind of activity that lets her groove to music.",
+    "menuName": "โจ๊กสะพานหัน",
+    "location": "ถนนจักรวรรดิ แขวงจักรวรรดิ์ เขตสัมพันธวงศ์ กรุงเทพมหานคร 10100",
+    "description": "สำหรับเมนูของทางร้านจะมีเพียงเมนูเดียวคือ เมนูโจ๊ก แต่โจ๊กของทางร้านจะใช้กรรมวิธีแบบดั้งเดิมคือต้มด้วยเตาถ่าน ซึ่งต้องอาศัยความเอาใจใส่ และพิถีพิถันเป็นอย่างมาก เพราะต้องคอยคนโจ๊กตลอดเวลาเพื่อไม่ให้โจ๊กไหม้ติดหม้อ แต่จะได้มาซึ่งความร้อนยาวนาน และความข้นเหนียวแตกต่างจากร้านอื่นๆ ",
     "rate": "star03",
-    "price": 2,
+    "price": 400,
     "icon" : "location"
 
   },
   {
     "imageFile": "menu03",
-    "menuName": "Mingle",
-    "location": "Double Trouble",
-    "description": "Mingle excels at doing twice the work in half the time, with pinpoint accuracy.  These skills serve her well in her role as Senior Data Analyst for an international cloud computing company. She's also got a penchant for ballroom dance, line dancing, and pretty much any kind of activity that lets her groove to music.",
+    "menuName": "กระเพาะปลาคาเธ่ย์",
+    "location": "663 ถนนมังกร แขวงสัมพันธวงศ์ เขตสัมพันธวงศ์ กรุงเทพมหานคร 10100",
+    "description": " กระเพาะปลาคาเธ่ย์ ร้านเก่าแก่ที่เปิดมาอย่างยาวนานกว่า 40 ปี! สำหรับร้านนี้นับว่าเป็นร้านในตำนานย่านเยาวราชเลยค่ะ โดยมีจุดเริ่มต้นจากการขายกระเพาะปลาสูตรดั้งเดิมในรถเข็น ก่อนจะปรับเปลี่ยนสูตรจนลงตัวในซุปสูตรฟิวชั่นกับน้ำซุปหูฉลามค่ะ (ไม่มีหูฉลามจริงๆ น้า ใช้แต่สูตรน้ำซุปค่ะ)",
     "rate": "star02",
-    "price": 2,
+    "price": 60,
     "icon" : "location"
 
   },{
   "imageFile": "menu04",
-  "menuName": "Mingle",
-  "location": "Double Trouble",
-  "description": "Mingle excels at doing twice the work in half the time, with pinpoint accuracy.  These skills serve her well in her role as Senior Data Analyst for an international cloud computing company. She's also got a penchant for ballroom dance, line dancing, and pretty much any kind of activity that lets her groove to music.",
+  "menuName": "บะหมี่ราชวิถี (ยุ้ยกี่)",
+  "location": "635-637 ถนนสามเสน ใกล้สี่แยกซังฮี้ แขวงวชิรพยาบาล เขตดุสิต กรุงเทพมหานคร",
+  "description": "ร้านบะหมี่เก่าแก่ที่ก่อตั้งเมื่อปี 2498 ค่ะ การันตีประสบการณ์ที่ยาวนานในด้านความอร่อยที่มีมานาน ซึ่งไม่มได้บริการเเค่บะหมี่น้ำอร่อยๆ เพียงอย่างเดียว เพราะยังมีข้าวหน้าไก่ และขนมจีบซาลาเปาให้เพื่อนๆ ได้เลือกทานด้วย เเละสำหรับเพื่อนๆ ที่ไม่ว่างมาทานที่ร้าน ทางร้านก็ยังมีบริการส่งแบบเดลิเวอรี่ด้วยทั่วกรุงเทพฯ ",
   "rate": "star01",
-  "price": 2,
+  "price": 62,
   "icon" : "location"
 
 },
   {
     "imageFile": "menu05",
-    "menuName": "Mingle",
-    "location": "Double Trouble",
-    "description": "Mingle excels at doing twice the work in half the time, with pinpoint accuracy.  These skills serve her well in her role as Senior Data Analyst for an international cloud computing company. She's also got a penchant for ballroom dance, line dancing, and pretty much any kind of activity that lets her groove to music.",
+    "menuName": "หมูสะเต๊ะป้าสม ประตูผี",
+    "location": "ติดกับร้านผัดไทยลุงภา 315/1 ถนนมหาไชย แขวงสำราญราษฏร์ เขตพระนคร กรุงเทพมหานคร",
+    "description": "หมูสะเต๊ะป้าสม ประตูผี ที่บอกเลยว่าถ้าไม่ได้กินถือว่าพลาดดด หมูสะเต๊ะหอมๆ ร้อนๆ หอมกลิ่นขมิ้น หมูสะเต๊ะมีให้เลือกหลายราคา อร่อยชิวๆ 10 ไม้ ราคา 60 บาท อร่อยมาเต็ม 15 ไม้ ราคา 90 บาท หรือจะอร่อยจัดหนัก 20 ไม้ ราคา 120 บาท ก็สามารถเลือกทานได้ตามความชอบเลยนะคะ ถ้าได้ทานคู่กับเครื่องเคียงรับรองว่าฟินเพิ่มขึ้นไปอีก ต้องมาลอง! ",
     "rate": "star01",
-    "price": 2,
+    "price": 60,
     "icon" : "location"
 
   },
   {
     "imageFile": "menu06",
-    "menuName": "Mingle",
-    "location": "Double Trouble",
-    "description": "Mingle excels at doing twice the work in half the time, with pinpoint accuracy.  These skills serve her well in her role as Senior Data Analyst for an international cloud computing company. She's also got a penchant for ballroom dance, line dancing, and pretty much any kind of activity that lets her groove to music.",
+    "menuName": "ห่านท่าดินแดง",
+    "location": "เลขที่ 1783/17-18 ถนนลาดพร้าว ซอย 35/1 แขวงสามเสนนอก เขตห้วยขวาง กรุงเทพมหานคร 10310",
+    "description": "ร้านห่านท่าดินแดงร้านนี้เปิดมากว่า 80 ปีแล้วค่ะ เรื่องรสชาติคงไม่ต้องพูดถึงเพราะระยะเวลาการเปิดร้านที่ยาวนานขนาดนี้คงเป็นเครื่องการีนตีความอร่อยได้เป็นอย่างดีแล้วใช่มั้ยคะ อิอิ เมนูเด็ดที่แนะนำคือ เนื้อห่านพะโล้ส่วนน่องและสะโพก เนื้อห่านพะโล้ส่วนหน้าอก เป็ดย่างหนังกรอบสูตรพิเศษ ตับห่านผัดพริกไทยดำ",
     "rate": "star01",
-    "price": 2,
+    "price": 160,
     "icon" : "location"
 
   },
   {
     "imageFile": "menu07",
-    "menuName": "Mingle",
-    "location": "Double Trouble",
-    "description": "Mingle excels at doing twice the work in half the time, with pinpoint accuracy.  These skills serve her well in her role as Senior Data Analyst for an international cloud computing company. She's also got a penchant for ballroom dance, line dancing, and pretty much any kind of activity that lets her groove to music.",
+    "menuName": "แดงราชาหอยทอด",
+    "location": "336 ซอยสุกร 1 แขวงตลาดน้อย เขตสัมพันธวงศ์ กรุงเทพมหานคร 10100",
+    "description": "ร้านหอยทอดเเละออส่วนตำรับโบราณที่เฮียแดงได้รับตกทอดเคล็ดลับมารุ่นสู่รุ่นยาวนานกว่า 4 ชั่วอายุคนเลยค่ะ จุดเด่นของร้านคือการเลือกวัตถุดิบที่สดใหม่ หอยใหญ่ตัวโต และเคล็ดลับของแป้งที่ทอดได้กรอบนอกนุ่มใน ซึ่งเฮียแดงได้พูดเสมอเลยว่า ความสุขของเฮียคือการที่ลูกค้าได้ทานอาหารคุณภาพดีและความสุข",
     "rate": "star01",
-    "price": 2,
+    "price": 70,
     "icon" : "location"
 
   },
   {
     "imageFile": "menu01",
-    "menuName": "Mingle",
-    "location": "Double Trouble",
-    "description": "Mingle excels at doing twice the work in half the time, with pinpoint accuracy.  These skills serve her well in her role as Senior Data Analyst for an international cloud computing company. She's also got a penchant for ballroom dance, line dancing, and pretty much any kind of activity that lets her groove to music.",
+    "menuName": "เกี๊ยวปลาลวกจิ้ม",
+    "location": "28/30 ถนนพระสุเมรุ แขวงชนะสงคราม เขตพระนคร กรุงเทพมหานคร 10200",
+    "description": "  เซี่ยงกี่ข้าวต้มปลา ร้านข้าวต้มปลาเตาถ่านในตำนานย่านเยาวราช อีกหนึ่งร้านเก่าแก่ส่งต่อรุ่นสู่รุ่นมากกว่า 93 ปีที่เสิร์ฟเมนูข้าวต้มแบบดั้งเดิมในสไตล์จีน ที่ถ้าหากใครไปถึงร้านก็จะได้เจอบรรยากาศความเป็นกันเองของอาม่ารุ่น 2 ",
     "rate": "star01",
-    "price": 2,
+    "price": 80,
     "icon" : "location"
 
   }

@@ -40,7 +40,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
-                    android:textSize="36dp"
+                    android:textSize="32dp"
                     tools:text="Title"
                     android:textColor="@color/white"/>
 
@@ -67,7 +67,7 @@
                     android:layout_marginRight="8dp"
                     android:ellipsize="end"
                     android:maxLines="3"
-                    android:textSize="22dp"
+                    android:textSize="18dp"
                     android:textColor="@color/white"
                     android:layout_toRightOf="@id/imgLocation01"
                     tools:text="Subtitle" />
@@ -79,9 +79,9 @@
                     android:layout_below="@id/tvLocation"
                     android:layout_marginLeft="180dp"
                     android:layout_marginRight="10dp"
-                    android:layout_marginTop="10dp"
+
                     android:src="@drawable/star05"
-                    android:scaleType="fitCenter"
+                    android:scaleType="fitEnd"
                     ></ImageView>
 
             </RelativeLayout>
