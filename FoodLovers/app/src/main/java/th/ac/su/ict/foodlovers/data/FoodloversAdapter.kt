@@ -21,7 +21,7 @@ class FoodloversAdapter(private val context: Context,
         val rowView = inflater.inflate(R.layout.list_item_food_lovers, null)
          rowView.tvTitle.text = dataSource[position].menuName
          rowView.tvLocation.text = dataSource[position].location
-         rowView.tvPrice.text = dataSource[position].price.toString()
+         rowView.tvPrice.text = dataSource[position].price.toString()+" THB"
 
         lazy { rowView.tvdescription.text = dataSource[position].description }
 
